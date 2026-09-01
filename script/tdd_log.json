@@ -94,9 +94,31 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "f7f897b7fa0a74943cf66260da9f7f272e6e8e6d",
     "commitName": "feat: jugador 1 marca un punto",
     "commitTimestamp": 1788272558270,
     "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1788272698970,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1788272724185,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: jugador 1 marca dos veces",
+    "commitTimestamp": 1788272743955,
+    "testId": 2
   }
 ]

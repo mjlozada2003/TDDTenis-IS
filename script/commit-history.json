@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "f7f897b7fa0a74943cf66260da9f7f272e6e8e6d",
     "author": "Maria Lozada",
     "commit": {
       "date": "2026-09-01T14:22:37.000Z",
       "message": "feat: jugador 1 marca un punto",
-      "url": "https://github.com/mjlozada2003/TDDTenis-IS/commit/HEAD"
+      "url": "https://github.com/mjlozada2003/TDDTenis-IS/commit/f7f897b7fa0a74943cf66260da9f7f272e6e8e6d"
     },
     "stats": {
       "total": 16,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Maria Lozada",
+    "commit": {
+      "date": "2026-09-01T14:25:42.000Z",
+      "message": "feat: jugador 1 marca dos veces",
+      "url": "https://github.com/mjlozada2003/TDDTenis-IS/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 6,
+      "deletions": 1,
+      "date": "2026-09-01"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
