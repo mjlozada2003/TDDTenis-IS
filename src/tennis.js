@@ -1,7 +1,11 @@
 class Tennis {
-    getScore(){
-        return "Love - Love";
-    }
+        getScorePlayer(puntos){
+        if(puntos === 0)return "Love";
+        if(puntos === 1)return "15";
+    };
+    getScore(player1Score, player2Score) {
+        return this.getScorePlayer(player1Score) + " - " + this.getScorePlayer(player2Score)
+    };
 }
 
 

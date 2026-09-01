@@ -64,9 +64,39 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "59ff92011bb818a30df4d310f68db004e1d13f30",
     "commitName": "feat: incio de un set",
     "commitTimestamp": 1788271977181,
     "testId": 0
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1788272093620,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1788272462106,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1788272513685,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: jugador 1 marca un punto",
+    "commitTimestamp": 1788272558270,
+    "testId": 1
   }
 ]
