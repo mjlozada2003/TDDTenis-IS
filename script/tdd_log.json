@@ -282,9 +282,55 @@
     "testId": 11
   },
   {
-    "commitId": "HEAD",
+    "commitId": "9524738f257c4c806352b1cac5bba66a678fdcc9",
     "commitName": "test: jugador 1 y jugador 2 anota 2 veces",
     "commitTimestamp": 1788406436606,
     "testId": 11
+  },
+  {
+    "numPassedTests": 13,
+    "failedTests": 1,
+    "numTotalTests": 14,
+    "timestamp": 1788406502029,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 14,
+    "failedTests": 0,
+    "numTotalTests": 14,
+    "timestamp": 1788406556581,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 14,
+    "failedTests": 0,
+    "numTotalTests": 14,
+    "timestamp": 1788406648033,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 14,
+    "failedTests": 1,
+    "numTotalTests": 15,
+    "timestamp": 1788406759706,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 14,
+    "failedTests": 0,
+    "numTotalTests": 14,
+    "timestamp": 1788406803091,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Deuce cuando jugador 1 y 2 anotan 3 veces",
+    "commitTimestamp": 1788406856215,
+    "testId": 12
   }
 ]
