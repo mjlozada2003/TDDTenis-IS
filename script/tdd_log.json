@@ -268,9 +268,23 @@
     "testId": 10
   },
   {
-    "commitId": "HEAD",
+    "commitId": "3c1fbae79984c63cafe8483d613172456906b0f8",
     "commitName": "test: jugador 1 anota una vez y jugador 2 anota 2 veces",
     "commitTimestamp": 1788405864152,
     "testId": 10
+  },
+  {
+    "numPassedTests": 13,
+    "failedTests": 0,
+    "numTotalTests": 13,
+    "timestamp": 1788406403940,
+    "success": true,
+    "testId": 11
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: jugador 1 y jugador 2 anota 2 veces",
+    "commitTimestamp": 1788406436606,
+    "testId": 11
   }
 ]
