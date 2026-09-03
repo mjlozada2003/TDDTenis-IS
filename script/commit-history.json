@@ -323,17 +323,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "3b317962be1067209ebddb90bfe89eb98489005f",
     "author": "Maria Lozada",
     "commit": {
       "date": "2026-09-03T04:05:31.000Z",
       "message": "feat: Deuce cuando estan empates a partir de 4 anotaciones",
-      "url": "https://github.com/mjlozada2003/TDDTenis-IS/commit/HEAD"
+      "url": "https://github.com/mjlozada2003/TDDTenis-IS/commit/3b317962be1067209ebddb90bfe89eb98489005f"
     },
     "stats": {
       "total": 6,
       "additions": 5,
       "deletions": 1,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 19,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Maria Lozada",
+    "commit": {
+      "date": "2026-09-03T04:36:52.000Z",
+      "message": "feat: presenter con logica de negocio",
+      "url": "https://github.com/mjlozada2003/TDDTenis-IS/commit/HEAD"
+    },
+    "stats": {
+      "total": 33,
+      "additions": 20,
+      "deletions": 13,
       "date": "2026-09-03"
     },
     "coverage": 100,

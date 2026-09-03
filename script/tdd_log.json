@@ -446,9 +446,55 @@
     "testId": 17
   },
   {
-    "commitId": "HEAD",
+    "commitId": "3b317962be1067209ebddb90bfe89eb98489005f",
     "commitName": "feat: Deuce cuando estan empates a partir de 4 anotaciones",
     "commitTimestamp": 1788408332325,
     "testId": 17
+  },
+  {
+    "numPassedTests": 19,
+    "failedTests": 0,
+    "numTotalTests": 19,
+    "timestamp": 1788408618393,
+    "success": true,
+    "testId": 18
+  },
+  {
+    "numPassedTests": 19,
+    "failedTests": 0,
+    "numTotalTests": 19,
+    "timestamp": 1788408995117,
+    "success": true,
+    "testId": 18
+  },
+  {
+    "numPassedTests": 19,
+    "failedTests": 0,
+    "numTotalTests": 19,
+    "timestamp": 1788409257492,
+    "success": true,
+    "testId": 18
+  },
+  {
+    "numPassedTests": 19,
+    "failedTests": 0,
+    "numTotalTests": 19,
+    "timestamp": 1788409530950,
+    "success": true,
+    "testId": 18
+  },
+  {
+    "numPassedTests": 19,
+    "failedTests": 0,
+    "numTotalTests": 19,
+    "timestamp": 1788409574662,
+    "success": true,
+    "testId": 18
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: presenter con logica de negocio",
+    "commitTimestamp": 1788410214670,
+    "testId": 18
   }
 ]

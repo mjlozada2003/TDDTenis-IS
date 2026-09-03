@@ -8,13 +8,13 @@ class Tennis {
     };
     getScore(player1Score, player2Score) {
         if(player1Score === player2Score && player1Score >= 3) return "Deuce";
-        if(player1Score === 4 && player2Score === 3) return "Advantage player 1";
-        if(player1Score === 3 && player2Score === 4) return "Advantage player 2";
-        if((player1Score >= 3) && (player2Score >= 3) && (player1Score === player2Score + 2)) return "Game for player 1";
-        if((player1Score >= 3) && (player2Score >= 3) && (player2Score === player1Score + 2)) return "Game for player 2";
-        if(player1Score === 4) return "Game for player 1";
-        if(player2Score === 4) return "Game for player 2";
-       return this.getScorePlayer(player1Score) + " - " + this.getScorePlayer(player2Score)
+        else if(player1Score > 3 && player1Score === player2Score + 1) return "Advantage player 1";
+        else if(player1Score + 1 === player2Score && player2Score > 3) return "Advantage player 2";
+        else if((player1Score >= 3) && (player2Score >= 3) && (player1Score === player2Score + 2)) return "Game for player 1";
+        else if((player1Score >= 3) && (player2Score >= 3) && (player2Score === player1Score + 2)) return "Game for player 2";
+        else if(player1Score === 4) return "Game for player 1";
+        else if(player2Score === 4) return "Game for player 2";
+        else return this.getScorePlayer(player1Score) + " - " + this.getScorePlayer(player2Score);
     };
 }
 
