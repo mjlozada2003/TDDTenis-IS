@@ -133,12 +133,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "3bf2d97138ff8710fcfc230eb6e36f7fc2690985",
     "author": "Maria Lozada",
     "commit": {
       "date": "2026-09-03T03:14:51.000Z",
       "message": "test: tercer punto del jugador 2",
-      "url": "https://github.com/mjlozada2003/TDDTenis-IS/commit/HEAD"
+      "url": "https://github.com/mjlozada2003/TDDTenis-IS/commit/3bf2d97138ff8710fcfc230eb6e36f7fc2690985"
     },
     "stats": {
       "total": 4,
@@ -148,6 +148,25 @@
     },
     "coverage": 92.86,
     "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Maria Lozada",
+    "commit": {
+      "date": "2026-09-03T03:15:42.000Z",
+      "message": "test: game for player 2",
+      "url": "https://github.com/mjlozada2003/TDDTenis-IS/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 10,
     "failed_tests": 0,
     "conclusion": "success"
   }
