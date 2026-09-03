@@ -304,12 +304,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "5e23ddaf1c83480c77fe817e855c149a78085a2a",
     "author": "Maria Lozada",
     "commit": {
       "date": "2026-09-03T04:01:25.000Z",
       "message": "feat: Game for player  cuando anota 2 veces seguidas desde un Deuce",
-      "url": "https://github.com/mjlozada2003/TDDTenis-IS/commit/HEAD"
+      "url": "https://github.com/mjlozada2003/TDDTenis-IS/commit/5e23ddaf1c83480c77fe817e855c149a78085a2a"
     },
     "stats": {
       "total": 5,
@@ -319,6 +319,25 @@
     },
     "coverage": 100,
     "test_count": 18,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Maria Lozada",
+    "commit": {
+      "date": "2026-09-03T04:05:31.000Z",
+      "message": "feat: Deuce cuando estan empates a partir de 4 anotaciones",
+      "url": "https://github.com/mjlozada2003/TDDTenis-IS/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 19,
     "failed_tests": 0,
     "conclusion": "success"
   }

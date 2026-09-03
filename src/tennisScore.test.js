@@ -73,6 +73,10 @@ describe("Tennis Score", () => {
         let tennis = new Tennis();
         expect(tennis.getScore(3, 3)).toEqual("Deuce");
     });
+    it ("Debería mostrar Deuce cuando el jugador 1 y el jugador 2 marca 4 veces", () => {
+        let tennis = new Tennis();
+        expect(tennis.getScore(4, 4)).toEqual("Deuce");
+    });
 });
 
 

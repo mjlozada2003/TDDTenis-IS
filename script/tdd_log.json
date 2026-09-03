@@ -424,9 +424,31 @@
     "testId": 16
   },
   {
-    "commitId": "HEAD",
+    "commitId": "5e23ddaf1c83480c77fe817e855c149a78085a2a",
     "commitName": "feat: Game for player  cuando anota 2 veces seguidas desde un Deuce",
     "commitTimestamp": 1788408086697,
     "testId": 16
+  },
+  {
+    "numPassedTests": 18,
+    "failedTests": 1,
+    "numTotalTests": 19,
+    "timestamp": 1788408164638,
+    "success": false,
+    "testId": 17
+  },
+  {
+    "numPassedTests": 19,
+    "failedTests": 0,
+    "numTotalTests": 19,
+    "timestamp": 1788408261507,
+    "success": true,
+    "testId": 17
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Deuce cuando estan empates a partir de 4 anotaciones",
+    "commitTimestamp": 1788408332325,
+    "testId": 17
   }
 ]
