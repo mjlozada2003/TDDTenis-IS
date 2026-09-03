@@ -116,9 +116,47 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "3de8895834e9a278c55a2b214df7c4e9215393d6",
     "commitName": "feat: jugador 1 marca dos veces",
     "commitTimestamp": 1788272743955,
     "testId": 2
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1788273044578,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1788399967491,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1788404380010,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1788404682511,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: jugador 1 marca 3 puntos",
+    "commitTimestamp": 1788404764016,
+    "testId": 3
   }
 ]

@@ -13,6 +13,10 @@ describe("Tennis Score", () => {
         let tennis = new Tennis();
         expect(tennis.getScore(2, 0)).toEqual("30 - Love");
     });
+    it ("Debería mostrar el marcador cuando el jugador 1 marca 3 veces", () => {
+        let tennis = new Tennis();
+        expect(tennis.getScore(3, 0)).toEqual("40 - Love");
+    });
 });
 
 
