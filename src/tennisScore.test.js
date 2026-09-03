@@ -56,6 +56,10 @@ describe("Tennis Score", () => {
         let tennis = new Tennis();
         expect(tennis.getScore(3, 4)).toEqual("Advantage player 2");
     });
+    it ("Debería mostrar Game for player 1 cuando el jugador 1 marca 2 veces seguidas desde un Deuce", () => {
+        let tennis = new Tennis();
+        expect(tennis.getScore(5, 3)).toEqual("Game for player 1");
+    });
     //empate
     it ("Debería mostrar el marcador cuando estén empates por 2 puntos", () => {
         let tennis = new Tennis();
