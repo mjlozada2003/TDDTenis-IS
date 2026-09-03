@@ -1,6 +1,7 @@
 import Tennis from "./tennis.js";
 
 describe("Tennis Score", () => {
+    //test player 1
     it ("Debería mostrar el inicio del Score", () => {
         let tennis = new Tennis();
         expect(tennis.getScore(0, 0)).toEqual("Love - Love");
@@ -20,6 +21,11 @@ describe("Tennis Score", () => {
     it ("Debería mostrar el ganador cuando el jugador 1 marca 4 veces", () => {
         let tennis = new Tennis();
         expect(tennis.getScore(4, 0)).toEqual("Game for player 1");
+    });
+    //test player 2
+    it ("Debería mostrar el marcador cuando el jugador 2 marca 1 vez", () => {
+        let tennis = new Tennis();
+        expect(tennis.getScore(0, 1)).toEqual("Love - 15");
     });
 });
 

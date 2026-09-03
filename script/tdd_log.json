@@ -176,9 +176,23 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "0fc69035cdf022b58c22472c5f4545f875580872",
     "commitName": "feat: game for player 1",
     "commitTimestamp": 1788405006152,
     "testId": 4
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1788405075550,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: primer punto del jugador 2",
+    "commitTimestamp": 1788405163854,
+    "testId": 5
   }
 ]
