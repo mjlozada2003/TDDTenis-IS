@@ -204,9 +204,23 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "f4d399f613efa8c4126865b3bace573a1df70bf3",
     "commitName": "test: segundo punto del jugador 2",
     "commitTimestamp": 1788405209557,
     "testId": 6
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1788405259308,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: tercer punto del jugador 2",
+    "commitTimestamp": 1788405292636,
+    "testId": 7
   }
 ]
