@@ -350,9 +350,31 @@
     "testId": 13
   },
   {
-    "commitId": "HEAD",
+    "commitId": "42f812ceeca795bb48cc5cb6ddbbb9cfbb576ebb",
     "commitName": "feat: Advantage for player 1 cuando anota 4 veces y el player 2 solo 3",
     "commitTimestamp": 1788407010550,
     "testId": 13
+  },
+  {
+    "numPassedTests": 15,
+    "failedTests": 1,
+    "numTotalTests": 16,
+    "timestamp": 1788407042678,
+    "success": false,
+    "testId": 14
+  },
+  {
+    "numPassedTests": 16,
+    "failedTests": 0,
+    "numTotalTests": 16,
+    "timestamp": 1788407074004,
+    "success": true,
+    "testId": 14
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Advantage for player 2 cuando anota 4 veces y el player 1 solo 3",
+    "commitTimestamp": 1788407111272,
+    "testId": 14
   }
 ]

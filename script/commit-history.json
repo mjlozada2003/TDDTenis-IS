@@ -247,12 +247,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "42f812ceeca795bb48cc5cb6ddbbb9cfbb576ebb",
     "author": "Maria Lozada",
     "commit": {
       "date": "2026-09-03T03:43:29.000Z",
       "message": "feat: Advantage for player 1 cuando anota 4 veces y el player 2 solo 3",
-      "url": "https://github.com/mjlozada2003/TDDTenis-IS/commit/HEAD"
+      "url": "https://github.com/mjlozada2003/TDDTenis-IS/commit/42f812ceeca795bb48cc5cb6ddbbb9cfbb576ebb"
     },
     "stats": {
       "total": 9,
@@ -262,6 +262,25 @@
     },
     "coverage": 100,
     "test_count": 15,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Maria Lozada",
+    "commit": {
+      "date": "2026-09-03T03:45:09.000Z",
+      "message": "feat: Advantage for player 2 cuando anota 4 veces y el player 1 solo 3",
+      "url": "https://github.com/mjlozada2003/TDDTenis-IS/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 16,
     "failed_tests": 0,
     "conclusion": "success"
   }
