@@ -39,6 +39,11 @@ describe("Tennis Score", () => {
         let tennis = new Tennis();
         expect(tennis.getScore(0, 4)).toEqual("Game for player 2");
     });
+    //intercalado
+    it ("Debería mostrar el marcador cuando el jugador 1 marca 2 veces y el jugador 2 marca 1 vez", () => {
+        let tennis = new Tennis();
+        expect(tennis.getScore(2, 1)).toEqual("30 - 15");
+    });
 });
 
 

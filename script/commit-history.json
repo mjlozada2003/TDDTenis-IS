@@ -152,12 +152,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "b6b3bcc5207b7c7c493b2a98c0997968a6a01cc7",
     "author": "Maria Lozada",
     "commit": {
       "date": "2026-09-03T03:15:42.000Z",
       "message": "test: game for player 2",
-      "url": "https://github.com/mjlozada2003/TDDTenis-IS/commit/HEAD"
+      "url": "https://github.com/mjlozada2003/TDDTenis-IS/commit/b6b3bcc5207b7c7c493b2a98c0997968a6a01cc7"
     },
     "stats": {
       "total": 4,
@@ -167,6 +167,25 @@
     },
     "coverage": 100,
     "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Maria Lozada",
+    "commit": {
+      "date": "2026-09-03T03:19:53.000Z",
+      "message": "test: jugador 1 anota dos veces y jugador 2 anota 1 vez",
+      "url": "https://github.com/mjlozada2003/TDDTenis-IS/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 11,
     "failed_tests": 0,
     "conclusion": "success"
   }
