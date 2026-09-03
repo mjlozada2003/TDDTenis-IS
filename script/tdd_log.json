@@ -154,9 +154,31 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "9f15bea97dc343ee78e0d4c2f149de2896fe8023",
     "commitName": "feat: jugador 1 marca 3 puntos",
     "commitTimestamp": 1788404764016,
     "testId": 3
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1788404909662,
+    "success": false,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1788404981630,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: game for player 1",
+    "commitTimestamp": 1788405006152,
+    "testId": 4
   }
 ]
