@@ -228,12 +228,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "78a1d7475cb99d9fda4ac452c423550a0801f316",
     "author": "Maria Lozada",
     "commit": {
       "date": "2026-09-03T03:40:54.000Z",
       "message": "feat: Deuce cuando jugador 1 y 2 anotan 3 veces",
-      "url": "https://github.com/mjlozada2003/TDDTenis-IS/commit/HEAD"
+      "url": "https://github.com/mjlozada2003/TDDTenis-IS/commit/78a1d7475cb99d9fda4ac452c423550a0801f316"
     },
     "stats": {
       "total": 9,
@@ -243,6 +243,25 @@
     },
     "coverage": 100,
     "test_count": 14,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Maria Lozada",
+    "commit": {
+      "date": "2026-09-03T03:43:29.000Z",
+      "message": "feat: Advantage for player 1 cuando anota 4 veces y el player 2 solo 3",
+      "url": "https://github.com/mjlozada2003/TDDTenis-IS/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 7,
+      "deletions": 2,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 15,
     "failed_tests": 0,
     "conclusion": "success"
   }

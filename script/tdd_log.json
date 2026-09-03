@@ -328,9 +328,31 @@
     "testId": 12
   },
   {
-    "commitId": "HEAD",
+    "commitId": "78a1d7475cb99d9fda4ac452c423550a0801f316",
     "commitName": "feat: Deuce cuando jugador 1 y 2 anotan 3 veces",
     "commitTimestamp": 1788406856215,
     "testId": 12
+  },
+  {
+    "numPassedTests": 14,
+    "failedTests": 1,
+    "numTotalTests": 15,
+    "timestamp": 1788406877944,
+    "success": false,
+    "testId": 13
+  },
+  {
+    "numPassedTests": 15,
+    "failedTests": 0,
+    "numTotalTests": 15,
+    "timestamp": 1788406926118,
+    "success": true,
+    "testId": 13
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Advantage for player 1 cuando anota 4 veces y el player 2 solo 3",
+    "commitTimestamp": 1788407010550,
+    "testId": 13
   }
 ]
